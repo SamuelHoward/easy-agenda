@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Easy Agenda</string>
+    <string name="main_title">Easy Agenda</string>
+    <string name="button_active_agenda">Active Agenda</string>
+    <string name="button_new_agenda">New Agenda</string>
+    <string name="button_saved_agendas">Saved Agendas</string>
+    <string name="active_title">Active Agenda</string>
+    <string name="new_title">New Agenda</string>
+    <string name="saved_title">Saved Agendas</string>
+    <string name="button_add_agenda">+</string>
+</resources>
